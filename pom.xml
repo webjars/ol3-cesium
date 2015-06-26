@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ol3-cesium</artifactId>
-    <version>1.5</version>
+    <version>1.6-SNAPSHOT</version>
     <name>ol3-cesium</name>
     <description>WebJar for ol3-cesium</description>
     <url>http://webjars.org</url>
@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/ol3-cesium</url>
         <connection>scm:git:https://github.com/webjars/ol3-cesium.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ol3-cesium.git</developerConnection>
-        <tag>ol3-cesium-1.5</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
